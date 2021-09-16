@@ -1,6 +1,6 @@
 <h3 align=center>Схема Базы Данных "Tourism"</h3>
 
-![plot](./Solution/Tourism.jpg)
+![plot](./Tourism.jpg)
 
 <h4>Последовательности</h4>
 
